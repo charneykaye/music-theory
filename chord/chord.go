@@ -6,9 +6,9 @@ package chord
 import (
 	"strings"
 
-	"github.com/go-music/music/key"
-	"github.com/go-music/music/note"
-	"github.com/go-music/music/interval"
+	"gopkg.in/music.v0/key"
+	"gopkg.in/music.v0/note"
+	"gopkg.in/music.v0/interval"
 )
 
 // Chord in a particular key

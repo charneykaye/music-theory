@@ -1,6 +1,6 @@
 # Key
 
-[![GoDoc](https://godoc.org/github.com/go-music/music/key?status.svg)](https://godoc.org/github.com/go-music/music/key) [![Coverage](https://img.shields.io/badge/coverage-100%-brightgreen.svg?style=flat)](https://gocover.io/github.com/go-music/music/key)
+[![GoDoc](https://godoc.org/gopkg.in/music.v0/key?status.svg)](https://godoc.org/gopkg.in/music.v0/key) [![Coverage](https://img.shields.io/badge/coverage-100%-brightgreen.svg?style=flat)](https://gocover.io/gopkg.in/music.v0/key)
 
 #### An opinionated model of a musical key signature.
 

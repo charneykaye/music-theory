@@ -4,8 +4,8 @@ package key
 import (
 	"strings"
 
-	"github.com/go-music/music/note"
-	"github.com/go-music/music/interval"
+	"gopkg.in/music.v0/note"
+	"gopkg.in/music.v0/interval"
 )
 
 // Of a particular key, e.g. Of("C minor 7")

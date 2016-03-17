@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/go-music/music/key"
-	"github.com/go-music/music/note"
+	"gopkg.in/music.v0/key"
+	"gopkg.in/music.v0/note"
 )
 
 func TestNewChord(t *testing.T) {

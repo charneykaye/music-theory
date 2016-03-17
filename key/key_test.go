@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/go-music/music/note"
-	"github.com/go-music/music/interval"
+	"gopkg.in/music.v0/note"
+	"gopkg.in/music.v0/interval"
 )
 
 func TestOf_C(t *testing.T) {

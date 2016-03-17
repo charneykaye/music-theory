@@ -8,7 +8,7 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/go-music/music/key"
+	"gopkg.in/music.v0/key"
 )
 
 func init() {
